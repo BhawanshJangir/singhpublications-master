@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/singhpublication/static/css/main.97a76595.css",
+    "main.js": "/singhpublication/static/js/main.c174bd8c.js",
+    "static/js/787.aedd5ec9.chunk.js": "/singhpublication/static/js/787.aedd5ec9.chunk.js",
+    "pdf.worker.js": "/singhpublication/9d22c7048649184fde0f68b3ec799cc8.js",
+    "static/media/banner-5-10 1.png": "/singhpublication/static/media/banner-5-10 1.1e5d686601b70eb16f8a.png",
+    "static/media/Singh AppNavbar and Career-06 1.png": "/singhpublication/static/media/Singh AppNavbar and Career-06 1.6d7288b13dbc14e5d369.png",
+    "static/media/homepagebg2.png": "/singhpublication/static/media/homepagebg2.f77ea704c66668bdfdba.png",
+    "static/media/homepagebg3.png": "/singhpublication/static/media/homepagebg3.0c43e4f9a1a089501637.png",
+    "static/media/homepagebg.png": "/singhpublication/static/media/homepagebg.01c03d7c7211ec225ed6.png",
+    "static/media/map.png": "/singhpublication/static/media/map.69c620214697781ceb4e.png",
+    "static/media/Singh Retail banner (2).jpg": "/singhpublication/static/media/Singh Retail banner (2).f74998daf500f47a6c9d.jpg",
+    "static/media/author.png": "/singhpublication/static/media/author.25ab9a959e88c598ad1e.png",
+    "static/media/testimonial1.JPG": "/singhpublication/static/media/testimonial1.5d94e905edbb4a7fe99a.JPG",
+    "static/media/terms.pdf": "/singhpublication/static/media/terms.c02b7bc5b134471d8daa.pdf",
+    "static/media/book.png": "/singhpublication/static/media/book.4f4d579de8df8dc107d1.png",
+    "static/media/policy.pdf": "/singhpublication/static/media/policy.7e8f086abc38c7a9e276.pdf",
+    "static/media/testimonial2.jfif": "/singhpublication/static/media/testimonial2.2309a5d70e0a699c8f4e.jfif",
+    "static/media/about.png": "/singhpublication/static/media/about.42aa1a12ada679966f59.png",
+    "static/media/logofinal.png": "/singhpublication/static/media/logofinal.c70fdd6896630a041083.png",
+    "static/media/navbar 1-04 2.png": "/singhpublication/static/media/navbar 1-04 2.271c1cb9c222b8a31320.png",
+    "static/media/file.pdf": "/singhpublication/static/media/file.d597a2047e0c53a7f95d.pdf",
+    "static/media/logo.svg": "/singhpublication/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/singhpublication/index.html",
+    "main.97a76595.css.map": "/singhpublication/static/css/main.97a76595.css.map",
+    "main.c174bd8c.js.map": "/singhpublication/static/js/main.c174bd8c.js.map",
+    "787.aedd5ec9.chunk.js.map": "/singhpublication/static/js/787.aedd5ec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97a76595.css",
+    "static/js/main.c174bd8c.js"
+  ]
+}
